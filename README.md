@@ -7,8 +7,10 @@ The aftermath of the Haitian earthquake of 2010 involved a very detailed case st
 We use big data from sensor networks, social media (Tweets, SMSs), and from other available sources during a particular natural calamity, translate them, if necessary, and pre-process them, to fit our requirements. 
 
 ## Models and Solutions
-1.We use RNNs, coupled with suitable classifiers to sort out the relevant information from the entire database, and acquire the exact locations where help was required, and the time when these messages were sent. With this, we give predictive insight over areas where help was required urgently, and find out the exact nature of help required.
-2. We use deep learning on satellite imagery, with models such as Maximum Likelihood Classifiers(MLCs) and K-Means Classifiers, to predict the entire trajectory of the disaster and the areas with maximum damage. We use GEOBIA(Geographic Object Based Image Analysis) and GeoNode technologies to achieve this.
+### 1. 
+We use RNNs, coupled with suitable classifiers to sort out the relevant information from the entire database, and acquire the exact locations where help was required, and the time when these messages were sent. With this, we give predictive insight over areas where help was required urgently, and find out the exact nature of help required.
+### 2. 
+We use deep learning on satellite imagery, with models such as Maximum Likelihood Classifiers(MLCs) and K-Means Classifiers, to predict the entire trajectory of the disaster and the areas with maximum damage. We use GEOBIA(Geographic Object Based Image Analysis) and GeoNode technologies to achieve this.
 
 ## Team
 Institute- IIT Kharagpur
